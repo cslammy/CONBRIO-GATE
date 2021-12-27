@@ -13,7 +13,7 @@ D5            4148   1N4004             DO41-10      DIODE                      
                
 IC2           LM324N LM324N             DIL14        OP AMP   
 
-Note, for IC2, please do not use jfet opamp like TL084. LM3324 or 358 is more reliable for this design.
+Note, for IC2, please do not use jfet opamp like TL084. LM324 or LM358 DIP IC is more reliable for this design.
                      
 Q1            2N3904 2N3904             TO92         NPN Transistor                                             
 Q2            2N3904 2N3904             TO92         NPN Transistor                                             
