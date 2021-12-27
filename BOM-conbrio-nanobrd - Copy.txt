@@ -1,0 +1,37 @@
+                                       
+7805          7805T  7805T              TO220H       Positive VOLTAGE REGULATOR                                 
+ARDUINO_NANO1        ARDUINO_NANO       ARDUINO_NANO Arduino Nano V3.0 Module                                   
+C1            .1uF   C-US025-030X050    C025-030X050 CAPACITOR, American symbol                                 
+C2            .1uF   C-US025-025X050    C025-025X050 CAPACITOR, American symbol                                 
+C5            10uF   CPOL-USE3.5-10     E3,5-10      POLARIZED CAPACITOR, American symbol            C          
+C6            47uF   CPOL-USE3.5-10     E3,5-10      POLARIZED CAPACITOR, American symbol            C          
+D1            1N5236 ZENER-DIODEDO35Z10 DO35Z10      Z-Diode 5V                                                   
+D2            1N4001 1N4148DO35-10      DO35-10      DIODE                                21                    
+D3            1N5236 ZENER-DIODEDO35Z10 DO35Z10      Z-Diode 5V                                                   
+D4            4148   1N4004             DO41-10      DIODE                                82                    
+D5            4148   1N4004             DO41-10      DIODE                                82                    
+               
+IC2           LM324N LM324N             DIL14        OP AMP   
+
+Note, for IC2, please do not use jfet opamp like TL084. LM3324 or 358 is more reliable for this design.
+                     
+Q1            2N3904 2N3904             TO92         NPN Transistor                                             
+Q2            2N3904 2N3904             TO92         NPN Transistor                                             
+Q3            2N3904 2N3904             TO92         NPN Transistor                                             
+Q4            2N3904 2N3904             TO92         NPN Transistor                                             
+R1            1K     R-US_0207/10       0207/10      RESISTOR, American symbol                                  
+R2            10K    R-US_0204/7        0204/7       RESISTOR, American symbol                                  
+R3            1K     R-US_0204/7        0204/7       RESISTOR, American symbol                                  
+R4            1K     R-US_0207/12       0207/12      RESISTOR, American symbol                                  
+R5            100K   R-US_0204/7        0204/7       RESISTOR, American symbol                                  
+R6            470ohm R-US_0207/10       0207/10      RESISTOR, American symbol                                  
+R7            470ohm R-US_0204/7        0204/7       RESISTOR, American symbol                                  
+R8            470ohm R-US_0204/7        0204/7       RESISTOR, American symbol                                  
+R9            100K   R-US_0204/7        0204/7       RESISTOR, American symbol                                  
+R10           10K    R-US_0204/7        0204/7       RESISTOR, American symbol                                  
+R11           10K    R-US_0204/7        0204/7       RESISTOR, American symbol                                  
+R13           1K     R-US_0204/7        0204/7       RESISTOR, American symbol                                  
+R14           1K     R-US_0204/7        0204/7       RESISTOR, American symbol                                  
+R17           100K   R-US_0204/7        0204/7       RESISTOR, American symbol                                  
+R18           10K    R-US_0207/12       0207/12      RESISTOR, American symbol                                  
+                 

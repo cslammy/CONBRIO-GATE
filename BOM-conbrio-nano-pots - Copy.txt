@@ -1,0 +1,16 @@
+BOM-conbrio-nano-pots  for 11-1-21 design       
+
+CVIN      THONKICONNNEW THONKICONNNEW    WQP-PJ301M-12_JACK 3.5mm socket for Eurorack modular synths                    
+INVOUT    THONKICONNNEW THONKICONNNEW    WQP-PJ301M-12_JACK 3.5mm socket for Eurorack modular synths                    
+OUT       THONKICONNNEW THONKICONNNEW    WQP-PJ301M-12_JACK 3.5mm socket for Eurorack modular synths 
+GATEIN    THONKICONNNEW THONKICONNNEW    WQP-PJ301M-12_JACK 3.5mm socket for Eurorack modular synths      
+REVCV     THONKICONNNEW THONKICONNNEW    WQP-PJ301M-12_JACK 3.5mm socket for Eurorack modular synths                    
+REVIN     THONKICONNNEW THONKICONNNEW    WQP-PJ301M-12_JACK 3.5mm socket for Eurorack modular synths   
+GATE-LED                LED3MM           LED3MM             LED                                               97        
+OUT-LED                 LED3MM           LED3MM             LED                                               97        
+REV-LED                 LED3MM           LED3MM             LED                                               97                
+SPEED     100K          9MM_SNAP-IN_POT_ 9MM_SNAP-IN_POT    9mm vertical snap-in pot, Alpha / Panasonic style      
+INTERVAL  100K          9MM_SNAP-IN_POT_ 9MM_SNAP-IN_POT    9mm vertical snap-in pot, Alpha / Panasonic style           
+                   
+                      
+          
