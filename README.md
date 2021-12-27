@@ -6,3 +6,6 @@ https://audiodiwhy.blogspot.com/2021/12/con-brio-gate-boards-redesigned-to.html
 
 This is a fix and redesign of the original project you can read about there.
 https://audiodiwhy.blogspot.com/2019/04/conbrio-gate-generator-sounds-of-nature.html
+
+Soundcloud demo for this module is here:
+https://soundcloud.com/cslamm/con-brio-final
